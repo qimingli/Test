@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-添加1个demo文件
-=======
-第一次添加内容
->>>>>>> 9d7d6c86fab03ddf1d36ac8fc17e37e960de08aa
+add demo file
+
+-----------
+master add
